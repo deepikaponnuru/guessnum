@@ -1,0 +1,25 @@
+.box{
+    height: 250px;
+    width: 400px;
+    background-color: green;
+    border: 5px solid black;
+    margin: auto;
+    margin-top: 10%;
+}
+h2{
+    color: yellow;
+}
+h5{
+    color: red;
+    margin-bottom: -3%;
+}
+p,#es{
+    color: white;
+}
+.but{
+    text-align: center;
+    margin-top: 7%;
+}
+#es{
+    height: 8px;
+}
